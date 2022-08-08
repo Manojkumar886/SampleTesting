@@ -1,0 +1,42 @@
+keywords(53 keywords in java)
+
+
+Variable:
+
+three types of variables used in java:
+
+1.static  variable
+2.local variable
+	inside method but outside class......
+
+
+3.global variable
+	Inside the class(main function)..another is instance variable
+
+
+
+method:
+method is used to perfome a particular task......
+
+syntax:
+ access modifier  return type userdefined name()
+{
+fields,statment,declared
+}
+
+public void maria(arguments(parameter))
+{
+int a=10;
+sysout(a);
+}
+
+
+
+
+object:
+new-memory allocated at runtime
+syntax:
+classname objectname(udn)=new classname();
+
+example:
+Variables obj=new Variables();
